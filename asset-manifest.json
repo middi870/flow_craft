@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flow_craft/static/css/main.12da8fda.css",
+    "main.js": "/flow_craft/static/js/main.249fbf7f.js",
+    "index.html": "/flow_craft/index.html",
+    "main.12da8fda.css.map": "/flow_craft/static/css/main.12da8fda.css.map",
+    "main.249fbf7f.js.map": "/flow_craft/static/js/main.249fbf7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12da8fda.css",
+    "static/js/main.249fbf7f.js"
+  ]
+}
